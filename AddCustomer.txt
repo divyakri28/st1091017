@@ -1,0 +1,3 @@
+Addcustomer "", "tmip", "23ave", "vancouver", "BC", "vhugyi"
+Addcustomer "sam", "", "23 ave east", "vasncouver", "Bc", "ghy789"
+Addcustomer "heema", "Trum", "23 west ave", "vancouver", "BC", "vy7nhu"
